@@ -1,0 +1,5 @@
+.idea/
+.py*
+*-abk*
+__pycache__
+*-bak
